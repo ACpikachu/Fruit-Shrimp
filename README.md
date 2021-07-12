@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Fruit-Shrimp
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning machine-learning
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me at 649896433@qq.com
+
